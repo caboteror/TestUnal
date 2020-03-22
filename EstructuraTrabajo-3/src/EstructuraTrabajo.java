@@ -10,6 +10,8 @@ public class EstructuraTrabajo {
         System.out.print("Mínimo de fantasmas: ");
         minimo = num.nextInt();
         new Snake(maximo, minimo).setVisible(true);
+        
+        //Hola
     }
 
 }
